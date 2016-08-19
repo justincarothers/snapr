@@ -70,10 +70,15 @@ a {
 	.sign_in {
 		position: absolute;
 		right: 3.1em;
-		top: 39%;
 		font-size: 1.0em;
 		color: #FFFFFF;
 	}
+}
+
+#profile_picture img {
+	max-width: 370px;
+	display: block;
+	margin: auto;
 }
 
 .button {
